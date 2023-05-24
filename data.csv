@@ -1,0 +1,501 @@
+Date,Mes vêtements,Pile de vêtement associé
+2022-02-05,chino gris,pile des pantalons
+2022-02-05,t-shirt rouge,pile des t-shirts
+2022-03-05,parka gris,pile des vestes / manteaux
+2022-03-05,cravate vert,pile des accessoires
+2022-04-05,cravate noir,pile des accessoires
+2022-04-05,duffle coat gris,pile des vestes / manteaux
+2022-05-05,short orange,pile des pantalons
+2022-05-05,veste de costume noir,pile des vestes / manteaux
+2022-06-05,cravate noir,pile des accessoires
+2022-06-05,chino bleu,pile des pantalons
+2022-07-05,parka rouge,pile des vestes / manteaux
+2022-07-05,cravate rouge,pile des accessoires
+2022-08-05,perfecto vert,pile des vestes / manteaux
+2022-08-05,short bleu,pile des pantalons
+2022-09-05,pantalon de costume blanc,pile des pantalons
+2022-09-05,parka jaune,pile des vestes / manteaux
+2022-10-05,pantalon de costume orange,pile des pantalons
+2022-10-05,doudoune jaune,pile des vestes / manteaux
+2022-11-05,short bleu,pile des pantalons
+2022-11-05,pantalon de costume blanc,pile des pantalons
+2022-12-05,t-shirt bleu,pile des t-shirts
+2022-12-05,short gris,pile des pantalons
+2022-05-13,cravate gris,pile des accessoires
+2022-05-13,short noir,pile des pantalons
+2022-05-14,doudoune jaune,pile des vestes / manteaux
+2022-05-14,perfecto jaune,pile des vestes / manteaux
+2022-05-15,t-shirt noir,pile des t-shirts
+2022-05-15,duffle coat rouge,pile des vestes / manteaux
+2022-05-16,duffle coat noir,pile des vestes / manteaux
+2022-05-16,cravate vert,pile des accessoires
+2022-05-17,perfecto orange,pile des vestes / manteaux
+2022-05-17,chaussette gris,pile des accessoires
+2022-05-18,t-shirt vert,pile des t-shirts
+2022-05-18,chino orange,pile des pantalons
+2022-05-19,perfecto bleu,pile des vestes / manteaux
+2022-05-19,short rouge,pile des pantalons
+2022-05-20,duffle coat rouge,pile des vestes / manteaux
+2022-05-20,short jaune,pile des pantalons
+2022-05-21,pantalon de costume jaune,pile des pantalons
+2022-05-21,chaussette noir,pile des accessoires
+2022-05-22,doudoune noir,pile des vestes / manteaux
+2022-05-22,duffle coat blanc,pile des vestes / manteaux
+2022-05-23,doudoune jaune,pile des vestes / manteaux
+2022-05-23,cravate noir,pile des accessoires
+2022-05-24,veste de costume rouge,pile des vestes / manteaux
+2022-05-24,duffle coat jaune,pile des vestes / manteaux
+2022-05-25,short orange,pile des pantalons
+2022-05-25,chino bleu,pile des pantalons
+2022-05-26,duffle coat orange,pile des vestes / manteaux
+2022-05-26,pantalon de costume blanc,pile des pantalons
+2022-05-27,t-shirt rouge,pile des t-shirts
+2022-05-27,parka orange,pile des vestes / manteaux
+2022-05-28,short bleu,pile des pantalons
+2022-05-28,doudoune blanc,pile des vestes / manteaux
+2022-05-29,chino vert,pile des pantalons
+2022-05-29,pantalon de costume rouge,pile des pantalons
+2022-05-30,perfecto gris,pile des vestes / manteaux
+2022-05-30,short gris,pile des pantalons
+2022-05-31,perfecto noir,pile des vestes / manteaux
+2022-05-31,t-shirt bleu,pile des t-shirts
+2022-01-06,veste de costume rouge,pile des vestes / manteaux
+2022-01-06,chino orange,pile des pantalons
+2022-02-06,veste de costume bleu,pile des vestes / manteaux
+2022-02-06,doudoune blanc,pile des vestes / manteaux
+2022-03-06,cravate vert,pile des accessoires
+2022-03-06,perfecto orange,pile des vestes / manteaux
+2022-04-06,cravate rouge,pile des accessoires
+2022-04-06,t-shirt noir,pile des t-shirts
+2022-05-06,duffle coat orange,pile des vestes / manteaux
+2022-05-06,parka orange,pile des vestes / manteaux
+2022-06-06,t-shirt bleu,pile des t-shirts
+2022-06-06,perfecto bleu,pile des vestes / manteaux
+2022-07-06,chaussette vert,pile des accessoires
+2022-07-06,chino bleu,pile des pantalons
+2022-08-06,pantalon de costume vert,pile des pantalons
+2022-08-06,doudoune gris,pile des vestes / manteaux
+2022-09-06,chino blanc,pile des pantalons
+2022-09-06,chino blanc,pile des pantalons
+2022-10-06,cravate orange,pile des accessoires
+2022-10-06,veste de costume gris,pile des vestes / manteaux
+2022-11-06,chino orange,pile des pantalons
+2022-11-06,perfecto orange,pile des vestes / manteaux
+2022-12-06,parka bleu,pile des vestes / manteaux
+2022-12-06,cravate bleu,pile des accessoires
+2022-06-13,short vert,pile des pantalons
+2022-06-13,perfecto noir,pile des vestes / manteaux
+2022-06-14,chaussette gris,pile des accessoires
+2022-06-14,chino vert,pile des pantalons
+2022-06-15,veste de costume orange,pile des vestes / manteaux
+2022-06-15,pantalon de costume vert,pile des pantalons
+2022-06-16,t-shirt noir,pile des t-shirts
+2022-06-16,chino rouge,pile des pantalons
+2022-06-17,pantalon de costume orange,pile des pantalons
+2022-06-17,short noir,pile des pantalons
+2022-06-18,t-shirt noir,pile des t-shirts
+2022-06-18,chaussette rouge,pile des accessoires
+2022-06-19,short jaune,pile des pantalons
+2022-06-19,t-shirt jaune,pile des t-shirts
+2022-06-20,chaussette gris,pile des accessoires
+2022-06-20,veste de costume orange,pile des vestes / manteaux
+2022-06-21,doudoune gris,pile des vestes / manteaux
+2022-06-21,chino gris,pile des pantalons
+2022-06-22,duffle coat gris,pile des vestes / manteaux
+2022-06-22,parka blanc,pile des vestes / manteaux
+2022-06-23,cravate blanc,pile des accessoires
+2022-06-23,chino vert,pile des pantalons
+2022-06-24,chino gris,pile des pantalons
+2022-06-24,parka gris,pile des vestes / manteaux
+2022-06-25,pantalon de costume jaune,pile des pantalons
+2022-06-25,short bleu,pile des pantalons
+2022-06-26,veste de costume gris,pile des vestes / manteaux
+2022-06-26,chaussette noir,pile des accessoires
+2022-06-27,perfecto rouge,pile des vestes / manteaux
+2022-06-27,parka rouge,pile des vestes / manteaux
+2022-06-28,perfecto noir,pile des vestes / manteaux
+2022-06-28,doudoune orange,pile des vestes / manteaux
+2022-06-29,pantalon de costume noir,pile des pantalons
+2022-06-29,perfecto jaune,pile des vestes / manteaux
+2022-06-30,t-shirt blanc,pile des t-shirts
+2022-06-30,duffle coat jaune,pile des vestes / manteaux
+2022-01-07,chino jaune,pile des pantalons
+2022-01-07,chino noir,pile des pantalons
+2022-02-07,t-shirt bleu,pile des t-shirts
+2022-02-07,chaussette orange,pile des accessoires
+2022-03-07,pantalon de costume gris,pile des pantalons
+2022-03-07,perfecto rouge,pile des vestes / manteaux
+2022-04-07,perfecto noir,pile des vestes / manteaux
+2022-04-07,chaussette orange,pile des accessoires
+2022-05-07,cravate orange,pile des accessoires
+2022-05-07,t-shirt rouge,pile des t-shirts
+2022-06-07,duffle coat blanc,pile des vestes / manteaux
+2022-06-07,veste de costume gris,pile des vestes / manteaux
+2022-07-07,parka gris,pile des vestes / manteaux
+2022-07-07,doudoune blanc,pile des vestes / manteaux
+2022-08-07,veste de costume bleu,pile des vestes / manteaux
+2022-08-07,pantalon de costume noir,pile des pantalons
+2022-09-07,chino bleu,pile des pantalons
+2022-09-07,short bleu,pile des pantalons
+2022-10-07,pantalon de costume bleu,pile des pantalons
+2022-10-07,duffle coat noir,pile des vestes / manteaux
+2022-11-07,duffle coat jaune,pile des vestes / manteaux
+2022-11-07,t-shirt jaune,pile des t-shirts
+2022-12-07,pantalon de costume gris,pile des pantalons
+2022-12-07,chino vert,pile des pantalons
+2022-07-13,perfecto noir,pile des vestes / manteaux
+2022-07-13,perfecto gris,pile des vestes / manteaux
+2022-07-14,duffle coat rouge,pile des vestes / manteaux
+2022-07-14,duffle coat blanc,pile des vestes / manteaux
+2022-07-15,doudoune bleu,pile des vestes / manteaux
+2022-07-15,chaussette orange,pile des accessoires
+2022-07-16,duffle coat jaune,pile des vestes / manteaux
+2022-07-16,duffle coat bleu,pile des vestes / manteaux
+2022-07-17,t-shirt bleu,pile des t-shirts
+2022-07-17,doudoune noir,pile des vestes / manteaux
+2022-07-18,cravate orange,pile des accessoires
+2022-07-18,chaussette rouge,pile des accessoires
+2022-07-19,veste de costume rouge,pile des vestes / manteaux
+2022-07-19,parka jaune,pile des vestes / manteaux
+2022-07-20,short rouge,pile des pantalons
+2022-07-20,cravate noir,pile des accessoires
+2022-07-21,parka rouge,pile des vestes / manteaux
+2022-07-21,pantalon de costume orange,pile des pantalons
+2022-07-22,pantalon de costume rouge,pile des pantalons
+2022-07-22,chaussette vert,pile des accessoires
+2022-07-23,t-shirt rouge,pile des t-shirts
+2022-07-23,parka jaune,pile des vestes / manteaux
+2022-07-24,pantalon de costume blanc,pile des pantalons
+2022-07-24,veste de costume vert,pile des vestes / manteaux
+2022-07-25,cravate blanc,pile des accessoires
+2022-07-25,perfecto rouge,pile des vestes / manteaux
+2022-07-26,t-shirt vert,pile des t-shirts
+2022-07-26,cravate bleu,pile des accessoires
+2022-07-27,veste de costume noir,pile des vestes / manteaux
+2022-07-27,chino gris,pile des pantalons
+2022-07-28,chaussette rouge,pile des accessoires
+2022-07-28,short blanc,pile des pantalons
+2022-07-29,pantalon de costume vert,pile des pantalons
+2022-07-29,perfecto bleu,pile des vestes / manteaux
+2022-07-30,perfecto blanc,pile des vestes / manteaux
+2022-07-30,short noir,pile des pantalons
+2022-07-31,parka vert,pile des vestes / manteaux
+2022-07-31,cravate gris,pile des accessoires
+2022-01-08,perfecto orange,pile des vestes / manteaux
+2022-01-08,pantalon de costume rouge,pile des pantalons
+2022-02-08,veste de costume jaune,pile des vestes / manteaux
+2022-02-08,short jaune,pile des pantalons
+2022-03-08,t-shirt orange,pile des t-shirts
+2022-03-08,perfecto noir,pile des vestes / manteaux
+2022-04-08,perfecto gris,pile des vestes / manteaux
+2022-04-08,pantalon de costume bleu,pile des pantalons
+2022-05-08,veste de costume rouge,pile des vestes / manteaux
+2022-05-08,perfecto bleu,pile des vestes / manteaux
+2022-06-08,chaussette jaune,pile des accessoires
+2022-06-08,t-shirt bleu,pile des t-shirts
+2022-07-08,parka orange,pile des vestes / manteaux
+2022-07-08,chino bleu,pile des pantalons
+2022-08-08,pantalon de costume blanc,pile des pantalons
+2022-08-08,t-shirt noir,pile des t-shirts
+2022-09-08,t-shirt blanc,pile des t-shirts
+2022-09-08,duffle coat blanc,pile des vestes / manteaux
+2022-10-08,perfecto jaune,pile des vestes / manteaux
+2022-10-08,doudoune blanc,pile des vestes / manteaux
+2022-11-08,doudoune rouge,pile des vestes / manteaux
+2022-11-08,doudoune gris,pile des vestes / manteaux
+2022-12-08,pantalon de costume noir,pile des pantalons
+2022-12-08,chaussette gris,pile des accessoires
+2022-08-13,cravate bleu,pile des accessoires
+2022-08-13,pantalon de costume orange,pile des pantalons
+2022-08-14,short blanc,pile des pantalons
+2022-08-14,pantalon de costume jaune,pile des pantalons
+2022-08-15,chaussette vert,pile des accessoires
+2022-08-15,chaussette vert,pile des accessoires
+2022-08-16,doudoune blanc,pile des vestes / manteaux
+2022-08-16,short bleu,pile des pantalons
+2022-08-17,doudoune orange,pile des vestes / manteaux
+2022-08-17,duffle coat gris,pile des vestes / manteaux
+2022-08-18,perfecto rouge,pile des vestes / manteaux
+2022-08-18,parka orange,pile des vestes / manteaux
+2022-08-19,duffle coat bleu,pile des vestes / manteaux
+2022-08-19,chino bleu,pile des pantalons
+2022-08-20,short bleu,pile des pantalons
+2022-08-20,cravate rouge,pile des accessoires
+2022-08-21,duffle coat gris,pile des vestes / manteaux
+2022-08-21,perfecto gris,pile des vestes / manteaux
+2022-08-22,doudoune rouge,pile des vestes / manteaux
+2022-08-22,pantalon de costume orange,pile des pantalons
+2022-08-23,pantalon de costume noir,pile des pantalons
+2022-08-23,parka orange,pile des vestes / manteaux
+2022-08-24,chaussette jaune,pile des accessoires
+2022-08-24,chino rouge,pile des pantalons
+2022-08-25,t-shirt blanc,pile des t-shirts
+2022-08-25,cravate blanc,pile des accessoires
+2022-08-26,parka jaune,pile des vestes / manteaux
+2022-08-26,chaussette bleu,pile des accessoires
+2022-08-27,t-shirt jaune,pile des t-shirts
+2022-08-27,doudoune gris,pile des vestes / manteaux
+2022-08-28,cravate rouge,pile des accessoires
+2022-08-28,cravate noir,pile des accessoires
+2022-08-29,veste de costume blanc,pile des vestes / manteaux
+2022-08-29,chaussette blanc,pile des accessoires
+2022-08-30,veste de costume gris,pile des vestes / manteaux
+2022-08-30,short rouge,pile des pantalons
+2022-08-31,pantalon de costume vert,pile des pantalons
+2022-08-31,pantalon de costume noir,pile des pantalons
+2022-01-09,veste de costume orange,pile des vestes / manteaux
+2022-01-09,t-shirt jaune,pile des t-shirts
+2022-02-09,pantalon de costume orange,pile des pantalons
+2022-02-09,duffle coat noir,pile des vestes / manteaux
+2022-03-09,veste de costume jaune,pile des vestes / manteaux
+2022-03-09,duffle coat orange,pile des vestes / manteaux
+2022-04-09,cravate bleu,pile des accessoires
+2022-04-09,veste de costume vert,pile des vestes / manteaux
+2022-05-09,chaussette vert,pile des accessoires
+2022-05-09,t-shirt rouge,pile des t-shirts
+2022-06-09,doudoune jaune,pile des vestes / manteaux
+2022-06-09,doudoune bleu,pile des vestes / manteaux
+2022-07-09,chino vert,pile des pantalons
+2022-07-09,doudoune bleu,pile des vestes / manteaux
+2022-08-09,pantalon de costume bleu,pile des pantalons
+2022-08-09,chaussette blanc,pile des accessoires
+2022-09-09,chaussette noir,pile des accessoires
+2022-09-09,pantalon de costume bleu,pile des pantalons
+2022-10-09,t-shirt bleu,pile des t-shirts
+2022-10-09,cravate bleu,pile des accessoires
+2022-11-09,t-shirt noir,pile des t-shirts
+2022-11-09,short gris,pile des pantalons
+2022-12-09,t-shirt jaune,pile des t-shirts
+2022-12-09,perfecto vert,pile des vestes / manteaux
+2022-09-13,chaussette gris,pile des accessoires
+2022-09-13,t-shirt bleu,pile des t-shirts
+2022-09-14,pantalon de costume noir,pile des pantalons
+2022-09-14,parka vert,pile des vestes / manteaux
+2022-09-15,cravate jaune,pile des accessoires
+2022-09-15,chino jaune,pile des pantalons
+2022-09-16,doudoune bleu,pile des vestes / manteaux
+2022-09-16,duffle coat bleu,pile des vestes / manteaux
+2022-09-17,perfecto rouge,pile des vestes / manteaux
+2022-09-17,duffle coat noir,pile des vestes / manteaux
+2022-09-18,t-shirt blanc,pile des t-shirts
+2022-09-18,duffle coat noir,pile des vestes / manteaux
+2022-09-19,doudoune bleu,pile des vestes / manteaux
+2022-09-19,chino rouge,pile des pantalons
+2022-09-20,parka vert,pile des vestes / manteaux
+2022-09-20,doudoune vert,pile des vestes / manteaux
+2022-09-21,parka jaune,pile des vestes / manteaux
+2022-09-21,duffle coat jaune,pile des vestes / manteaux
+2022-09-22,cravate bleu,pile des accessoires
+2022-09-22,t-shirt jaune,pile des t-shirts
+2022-09-23,t-shirt gris,pile des t-shirts
+2022-09-23,parka blanc,pile des vestes / manteaux
+2022-09-24,veste de costume vert,pile des vestes / manteaux
+2022-09-24,t-shirt jaune,pile des t-shirts
+2022-09-25,chaussette noir,pile des accessoires
+2022-09-25,cravate rouge,pile des accessoires
+2022-09-26,cravate noir,pile des accessoires
+2022-09-26,chino vert,pile des pantalons
+2022-09-27,pantalon de costume rouge,pile des pantalons
+2022-09-27,cravate orange,pile des accessoires
+2022-09-28,t-shirt gris,pile des t-shirts
+2022-09-28,cravate vert,pile des accessoires
+2022-09-29,cravate orange,pile des accessoires
+2022-09-29,duffle coat bleu,pile des vestes / manteaux
+2022-09-30,cravate bleu,pile des accessoires
+2022-09-30,duffle coat bleu,pile des vestes / manteaux
+2022-01-10,perfecto blanc,pile des vestes / manteaux
+2022-01-10,duffle coat orange,pile des vestes / manteaux
+2022-02-10,chaussette orange,pile des accessoires
+2022-02-10,t-shirt bleu,pile des t-shirts
+2022-03-10,short gris,pile des pantalons
+2022-03-10,chino orange,pile des pantalons
+2022-04-10,pantalon de costume orange,pile des pantalons
+2022-04-10,chino jaune,pile des pantalons
+2022-05-10,cravate noir,pile des accessoires
+2022-05-10,doudoune orange,pile des vestes / manteaux
+2022-06-10,cravate bleu,pile des accessoires
+2022-06-10,doudoune vert,pile des vestes / manteaux
+2022-07-10,chino vert,pile des pantalons
+2022-07-10,short rouge,pile des pantalons
+2022-08-10,veste de costume bleu,pile des vestes / manteaux
+2022-08-10,parka blanc,pile des vestes / manteaux
+2022-09-10,pantalon de costume vert,pile des pantalons
+2022-09-10,perfecto gris,pile des vestes / manteaux
+2022-10-10,short blanc,pile des pantalons
+2022-10-10,chino blanc,pile des pantalons
+2022-11-10,duffle coat orange,pile des vestes / manteaux
+2022-11-10,veste de costume jaune,pile des vestes / manteaux
+2022-12-10,parka jaune,pile des vestes / manteaux
+2022-12-10,chino orange,pile des pantalons
+2022-10-13,perfecto vert,pile des vestes / manteaux
+2022-10-13,short blanc,pile des pantalons
+2022-10-14,t-shirt jaune,pile des t-shirts
+2022-10-14,parka noir,pile des vestes / manteaux
+2022-10-15,pantalon de costume vert,pile des pantalons
+2022-10-15,parka noir,pile des vestes / manteaux
+2022-10-16,cravate bleu,pile des accessoires
+2022-10-16,doudoune blanc,pile des vestes / manteaux
+2022-10-17,parka rouge,pile des vestes / manteaux
+2022-10-17,chaussette noir,pile des accessoires
+2022-10-18,chaussette noir,pile des accessoires
+2022-10-18,short gris,pile des pantalons
+2022-10-19,short gris,pile des pantalons
+2022-10-19,perfecto blanc,pile des vestes / manteaux
+2022-10-20,parka blanc,pile des vestes / manteaux
+2022-10-20,short jaune,pile des pantalons
+2022-10-21,doudoune noir,pile des vestes / manteaux
+2022-10-21,cravate gris,pile des accessoires
+2022-10-22,parka blanc,pile des vestes / manteaux
+2022-10-22,short vert,pile des pantalons
+2022-10-23,veste de costume blanc,pile des vestes / manteaux
+2022-10-23,parka bleu,pile des vestes / manteaux
+2022-10-24,chino jaune,pile des pantalons
+2022-10-24,chino vert,pile des pantalons
+2022-10-25,parka jaune,pile des vestes / manteaux
+2022-10-25,t-shirt orange,pile des t-shirts
+2022-10-26,chino noir,pile des pantalons
+2022-10-26,cravate gris,pile des accessoires
+2022-10-27,t-shirt orange,pile des t-shirts
+2022-10-27,short rouge,pile des pantalons
+2022-10-28,parka bleu,pile des vestes / manteaux
+2022-10-28,cravate blanc,pile des accessoires
+2022-10-29,short blanc,pile des pantalons
+2022-10-29,pantalon de costume jaune,pile des pantalons
+2022-10-30,cravate blanc,pile des accessoires
+2022-10-30,short noir,pile des pantalons
+2022-10-31,chaussette bleu,pile des accessoires
+2022-10-31,chino orange,pile des pantalons
+2022-01-11,short noir,pile des pantalons
+2022-01-11,parka rouge,pile des vestes / manteaux
+2022-02-11,perfecto jaune,pile des vestes / manteaux
+2022-02-11,cravate blanc,pile des accessoires
+2022-03-11,t-shirt jaune,pile des t-shirts
+2022-03-11,chaussette noir,pile des accessoires
+2022-04-11,short rouge,pile des pantalons
+2022-04-11,veste de costume noir,pile des vestes / manteaux
+2022-05-11,pantalon de costume jaune,pile des pantalons
+2022-05-11,chaussette noir,pile des accessoires
+2022-06-11,duffle coat orange,pile des vestes / manteaux
+2022-06-11,cravate noir,pile des accessoires
+2022-07-11,t-shirt rouge,pile des t-shirts
+2022-07-11,pantalon de costume vert,pile des pantalons
+2022-08-11,chaussette bleu,pile des accessoires
+2022-08-11,chaussette vert,pile des accessoires
+2022-09-11,t-shirt bleu,pile des t-shirts
+2022-09-11,perfecto jaune,pile des vestes / manteaux
+2022-10-11,chaussette orange,pile des accessoires
+2022-10-11,pantalon de costume blanc,pile des pantalons
+2022-11-11,parka rouge,pile des vestes / manteaux
+2022-11-11,chaussette bleu,pile des accessoires
+2022-12-11,chino bleu,pile des pantalons
+2022-12-11,pantalon de costume vert,pile des pantalons
+2022-11-13,perfecto rouge,pile des vestes / manteaux
+2022-11-13,doudoune rouge,pile des vestes / manteaux
+2022-11-14,doudoune rouge,pile des vestes / manteaux
+2022-11-14,pantalon de costume blanc,pile des pantalons
+2022-11-15,cravate gris,pile des accessoires
+2022-11-15,perfecto vert,pile des vestes / manteaux
+2022-11-16,chaussette jaune,pile des accessoires
+2022-11-16,chino orange,pile des pantalons
+2022-11-17,short noir,pile des pantalons
+2022-11-17,veste de costume gris,pile des vestes / manteaux
+2022-11-18,parka rouge,pile des vestes / manteaux
+2022-11-18,veste de costume vert,pile des vestes / manteaux
+2022-11-19,perfecto gris,pile des vestes / manteaux
+2022-11-19,chaussette vert,pile des accessoires
+2022-11-20,t-shirt gris,pile des t-shirts
+2022-11-20,pantalon de costume bleu,pile des pantalons
+2022-11-21,veste de costume gris,pile des vestes / manteaux
+2022-11-21,chaussette bleu,pile des accessoires
+2022-11-22,veste de costume bleu,pile des vestes / manteaux
+2022-11-22,doudoune bleu,pile des vestes / manteaux
+2022-11-23,doudoune jaune,pile des vestes / manteaux
+2022-11-23,doudoune gris,pile des vestes / manteaux
+2022-11-24,chino noir,pile des pantalons
+2022-11-24,duffle coat rouge,pile des vestes / manteaux
+2022-11-25,duffle coat jaune,pile des vestes / manteaux
+2022-11-25,perfecto rouge,pile des vestes / manteaux
+2022-11-26,chaussette bleu,pile des accessoires
+2022-11-26,t-shirt vert,pile des t-shirts
+2022-11-27,pantalon de costume noir,pile des pantalons
+2022-11-27,doudoune bleu,pile des vestes / manteaux
+2022-11-28,chaussette vert,pile des accessoires
+2022-11-28,chino vert,pile des pantalons
+2022-11-29,parka rouge,pile des vestes / manteaux
+2022-11-29,chino rouge,pile des pantalons
+2022-11-30,duffle coat orange,pile des vestes / manteaux
+2022-11-30,veste de costume rouge,pile des vestes / manteaux
+2022-01-12,perfecto noir,pile des vestes / manteaux
+2022-01-12,cravate jaune,pile des accessoires
+2022-02-12,chaussette gris,pile des accessoires
+2022-02-12,chino noir,pile des pantalons
+2022-03-12,short gris,pile des pantalons
+2022-03-12,veste de costume vert,pile des vestes / manteaux
+2022-04-12,perfecto gris,pile des vestes / manteaux
+2022-04-12,doudoune bleu,pile des vestes / manteaux
+2022-05-12,t-shirt vert,pile des t-shirts
+2022-05-12,cravate orange,pile des accessoires
+2022-06-12,chino bleu,pile des pantalons
+2022-06-12,short vert,pile des pantalons
+2022-07-12,perfecto gris,pile des vestes / manteaux
+2022-07-12,parka blanc,pile des vestes / manteaux
+2022-08-12,chaussette jaune,pile des accessoires
+2022-08-12,chaussette vert,pile des accessoires
+2022-09-12,duffle coat rouge,pile des vestes / manteaux
+2022-09-12,doudoune gris,pile des vestes / manteaux
+2022-10-12,perfecto gris,pile des vestes / manteaux
+2022-10-12,chino noir,pile des pantalons
+2022-11-12,pantalon de costume orange,pile des pantalons
+2022-11-12,veste de costume orange,pile des vestes / manteaux
+2022-12-12,veste de costume rouge,pile des vestes / manteaux
+2022-12-12,perfecto orange,pile des vestes / manteaux
+2022-12-13,pantalon de costume bleu,pile des pantalons
+2022-12-13,duffle coat gris,pile des vestes / manteaux
+2022-12-14,chaussette vert,pile des accessoires
+2022-12-14,chino blanc,pile des pantalons
+2022-12-15,duffle coat jaune,pile des vestes / manteaux
+2022-12-15,veste de costume orange,pile des vestes / manteaux
+2022-12-16,chaussette noir,pile des accessoires
+2022-12-16,pantalon de costume noir,pile des pantalons
+2022-12-17,cravate blanc,pile des accessoires
+2022-12-17,chaussette blanc,pile des accessoires
+2022-12-18,veste de costume orange,pile des vestes / manteaux
+2022-12-18,short jaune,pile des pantalons
+2022-12-19,perfecto orange,pile des vestes / manteaux
+2022-12-19,duffle coat bleu,pile des vestes / manteaux
+2022-12-20,perfecto blanc,pile des vestes / manteaux
+2022-12-20,duffle coat noir,pile des vestes / manteaux
+2022-12-21,chaussette vert,pile des accessoires
+2022-12-21,veste de costume rouge,pile des vestes / manteaux
+2022-12-22,perfecto rouge,pile des vestes / manteaux
+2022-12-22,chaussette orange,pile des accessoires
+2022-12-23,perfecto blanc,pile des vestes / manteaux
+2022-12-23,chaussette vert,pile des accessoires
+2022-12-24,veste de costume orange,pile des vestes / manteaux
+2022-12-24,veste de costume orange,pile des vestes / manteaux
+2022-12-25,t-shirt jaune,pile des t-shirts
+2022-12-25,short bleu,pile des pantalons
+2022-12-26,cravate noir,pile des accessoires
+2022-12-26,chino noir,pile des pantalons
+2022-12-27,doudoune rouge,pile des vestes / manteaux
+2022-12-27,cravate bleu,pile des accessoires
+2022-12-28,duffle coat gris,pile des vestes / manteaux
+2022-12-28,veste de costume gris,pile des vestes / manteaux
+2022-12-29,doudoune rouge,pile des vestes / manteaux
+2022-12-29,doudoune orange,pile des vestes / manteaux
+2022-12-30,cravate jaune,pile des accessoires
+2022-12-30,parka orange,pile des vestes / manteaux
+2022-12-31,short bleu,pile des pantalons
+2022-12-31,parka rouge,pile des vestes / manteaux
+2023-01-01,cravate blanc,pile des accessoires
+2023-01-01,chino noir,pile des pantalons
+2023-02-01,cravate rouge,pile des accessoires
+2023-02-01,veste de costume bleu,pile des vestes / manteaux
+2023-03-01,parka vert,pile des vestes / manteaux
+2023-03-01,veste de costume bleu,pile des vestes / manteaux
+2023-04-01,cravate rouge,pile des accessoires
+2023-04-01,t-shirt orange,pile des t-shirts
+2023-05-01,chaussette rouge,pile des accessoires
+2023-05-01,doudoune jaune,pile des vestes / manteaux
+2023-06-01,cravate blanc,pile des accessoires
+2023-06-01,perfecto noir,pile des vestes / manteaux
